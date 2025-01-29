@@ -1,2 +1,2 @@
-# Water_Resource_Research_Indus
- This work is under review in water resource research.
+## Declining Groundwater Storage in the Indus basin Revealed Using GRACE and GRACE-FO Data 
+Groundwater storage changes were calculated using the average of three GRACE mascon solutions (JPL, GSFC, and CSR) and ERA5-Land-derived TWSA. However, there are 33 months of gaps in the GRACE and GRACE-FO data, which significantly impact regional trends and predictions of water mass changes. Therefore, we applied a machine learning-based MissForest algorithm to fill these gaps at 0.25° resolution using eight input variables.
